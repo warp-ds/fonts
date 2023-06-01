@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Finntype';
+    src: url('https://static.finncdn.no/_c/static/fonts/FINNTypeStrippet-Light.woff2') format('woff2'),
+        url('https://static.finncdn.no/_c/static/fonts/FINNTypeStrippet-Light.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Finntype';
+    src: url('https://static.finncdn.no/_c/static/fonts/FINNTypeStrippet-Medium.woff2') format('woff2'),
+        url('https://static.finncdn.no/_c/static/fonts/FINNTypeStrippet-Medium.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'FinntypeFallback';
+    src: local('Arial');
+    font-weight: 400;
+    size-adjust: 96%;
+    line-gap-override: 13%;
+}
+  
+@font-face {
+    font-family: 'FinntypeFallback';
+    src: local('Arial');
+    font-weight: 700;
+    size-adjust: 108%;
+    line-gap-override: 0%;
+}

@@ -1,6 +1,6 @@
 {
   "name": "@warp-ds/fonts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "NMP brands fonts and font setup published to Eik",
   "exports": {
     "./FINNTypeStrippet-Light.woff": "./finn/FINNTypeStrippet-Light.woff",
@@ -12,7 +12,9 @@
     "./ToriSans-Italic.woff": "./tori/ToriSans-Italic.woff",
     "./ToriSans-Italic.woff2": "./tori/ToriSans-Italic.woff2",
     "./ToriSans-Bold.woff": "./tori/ToriSans-Bold.woff",
-    "./ToriSans-Bold.woff2": "./tori/ToriSans-Bold.woff2"
+    "./ToriSans-Bold.woff2": "./tori/ToriSans-Bold.woff2",
+    "./finn-no.css": "./finn/finn-no.css",
+    "./tori-fi.css": "./tori/tori-fi.css"
 
   },
   "scripts": {
@@ -35,7 +37,9 @@
       "./ToriSans-Italic.woff": "./tori/ToriSans-Italic.woff",
       "./ToriSans-Italic.woff2": "./tori/ToriSans-Italic.woff2",
       "./ToriSans-Bold.woff": "./tori/ToriSans-Bold.woff",
-      "./ToriSans-Bold.woff2": "./tori/ToriSans-Bold.woff2"
+      "./ToriSans-Bold.woff2": "./tori/ToriSans-Bold.woff2",
+      "./finn-no.css": "./finn/finn-no.css",
+      "./tori-fi.css": "./tori/tori-fi.css"
     }
   },
     "dependencies": {

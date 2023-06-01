@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'ToriSans';
+    src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ToriSans-Regular.woff2') format('woff2'),
+        url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ToriSans-Regular.woff') format('woff');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'ToriSans';
+    src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ToriSans-Bold.woff2') format('woff2'),
+        url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ToriSans-Bold.woff') format('woff');  
+    font-weight: 700;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'ToriSans';
+    src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ToriSans-Italic.woff2') format('woff2'),
+        url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ToriSans-Italic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: optional;
+}
