@@ -1,6 +1,6 @@
 {
   "name": "@warp-ds/fonts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NMP brands fonts and font setup published to Eik",
   "exports": {
     "./FINNTypeStrippet-Light.woff": "./finn/FINNTypeStrippet-Light.woff",
