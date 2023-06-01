@@ -1,0 +1,44 @@
+{
+  "name": "@warp-ds/fonts",
+  "version": "0.0.1",
+  "description": "NMP brands fonts and font setup published to Eik",
+  "exports": {
+    "./FINNTypeStrippet-Light.woff": "./finn/FINNTypeStrippet-Light.woff",
+    "./FINNTypeStrippet-Light.woff2": "./finn/FINNTypeStrippet-Light.woff2",
+    "./FINNTypeStrippet-Medium.woff": "./finn/FINNTypeStrippet-Medium.woff",
+    "./FINNTypeStrippet-Medium.woff2": "./finn/FINNTypeStrippet-Medium.woff2",
+    "./ToriSans-Regular.woff": "./tori/ToriSans-Regular.woff",
+    "./ToriSans-Regular.woff2": "./tori/ToriSans-Regular.woff2",
+    "./ToriSans-Italic.woff": "./tori/ToriSans-Italic.woff",
+    "./ToriSans-Italic.woff2": "./tori/ToriSans-Italic.woff2",
+    "./ToriSans-Bold.woff": "./tori/ToriSans-Bold.woff",
+    "./ToriSans-Bold.woff2": "./tori/ToriSans-Bold.woff2"
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postpublish": "eik publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "eik": {
+    "type": "package",
+    "server": "https://assets.finn.no",
+    "files": {
+      "./FINNTypeStrippet-Light.woff": "./finn/FINNTypeStrippet-Light.woff",
+      "./FINNTypeStrippet-Light.woff2": "./finn/FINNTypeStrippet-Light.woff2",
+      "./FINNTypeStrippet-Medium.woff": "./finn/FINNTypeStrippet-Medium.woff",
+      "./FINNTypeStrippet-Medium.woff2": "./finn/FINNTypeStrippet-Medium.woff2",
+      "./ToriSans-Regular.woff": "./tori/ToriSans-Regular.woff",
+      "./ToriSans-Regular.woff2": "./tori/ToriSans-Regular.woff2",
+      "./ToriSans-Italic.woff": "./tori/ToriSans-Italic.woff",
+      "./ToriSans-Italic.woff2": "./tori/ToriSans-Italic.woff2",
+      "./ToriSans-Bold.woff": "./tori/ToriSans-Bold.woff",
+      "./ToriSans-Bold.woff2": "./tori/ToriSans-Bold.woff2"
+    }
+  },
+    "dependencies": {
+    "@eik/cli": "^2.0.22"
+  }
+}
