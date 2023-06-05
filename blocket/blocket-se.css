@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'BlocketSans';
+    src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Regular.woff2') format('woff2'),
+        url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BlocketSans';
+    src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Bold.woff2') format('woff2'),
+        url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Bold.woff') format('woff');  
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'BlocketSans-Medium';
+    src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Medium.woff2') format('woff2'),
+        url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Medium.woff') format('woff');
+}

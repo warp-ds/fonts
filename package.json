@@ -1,6 +1,6 @@
 {
   "name": "@warp-ds/fonts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NMP brands fonts and font setup published to Eik",
   "exports": {
     "./FINNTypeStrippet-Light.woff": "./finn/FINNTypeStrippet-Light.woff",
@@ -13,9 +13,15 @@
     "./ToriSans-Italic.woff2": "./tori/ToriSans-Italic.woff2",
     "./ToriSans-Bold.woff": "./tori/ToriSans-Bold.woff",
     "./ToriSans-Bold.woff2": "./tori/ToriSans-Bold.woff2",
+    "./BlocketSans-Regular.woff": "./blocket/BlocketSans-Regular.woff",
+    "./BlocketSans-Regular.woff2": "./blocket/BlocketSans-Regular.woff2",
+    "./BlocketSans-Bold.woff": "./blocket/BlocketSans-Bold.woff",
+    "./BlocketSans-Bold.woff2": "./blocket/BlocketSans-Bold.woff2",
+    "./BlocketSans-Medium.woff": "./blocket/BlocketSans-Medium.woff",
+    "./BlocketSans-Medium.woff2": "./blocket/BlocketSans-Medium.woff2",
     "./finn-no.css": "./finn/finn-no.css",
-    "./tori-fi.css": "./tori/tori-fi.css"
-
+    "./tori-fi.css": "./tori/tori-fi.css",
+    "./blocket-se.css": "./blocket/blocket-se.css"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -38,8 +44,15 @@
       "./ToriSans-Italic.woff2": "./tori/ToriSans-Italic.woff2",
       "./ToriSans-Bold.woff": "./tori/ToriSans-Bold.woff",
       "./ToriSans-Bold.woff2": "./tori/ToriSans-Bold.woff2",
+      "./BlocketSans-Regular.woff": "./blocket/BlocketSans-Regular.woff",
+      "./BlocketSans-Regular.woff2": "./blocket/BlocketSans-Regular.woff2",
+      "./BlocketSans-Bold.woff": "./blocket/BlocketSans-Bold.woff",
+      "./BlocketSans-Bold.woff2": "./blocket/BlocketSans-Bold.woff2",
+      "./BlocketSans-Medium.woff": "./blocket/BlocketSans-Medium.woff",
+      "./BlocketSans-Medium.woff2": "./blocket/BlocketSans-Medium.woff2",
       "./finn-no.css": "./finn/finn-no.css",
-      "./tori-fi.css": "./tori/tori-fi.css"
+      "./tori-fi.css": "./tori/tori-fi.css",
+      "./blocket-se.css": "./blocket/blocket-se.css"
     }
   },
     "dependencies": {
