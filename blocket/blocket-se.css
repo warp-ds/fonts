@@ -2,6 +2,7 @@
     font-family: 'BlocketSans';
     src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Regular.woff2') format('woff2'),
         url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Regular.woff') format('woff');
+    font-weight: 400;
 }
 
 @font-face {
@@ -11,6 +12,8 @@
     font-weight: 700;
 }
 
+/* We are not sure what this is supposed to be used for but it was part of the blocket font setup: 
+  https://github.schibsted.io/blocket/blocket-ui/blob/7bd78ce8fb7c511c65facbfe530271a53f39d1e8/styleguide/index.css#L156-L162 */
 @font-face {
     font-family: 'BlocketSans-Medium';
     src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Medium.woff2') format('woff2'),
