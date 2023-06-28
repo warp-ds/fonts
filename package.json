@@ -1,7 +1,8 @@
 {
   "name": "@warp-ds/fonts",
   "version": "1.0.3",
-  "description": "NMP brands fonts and font setup published to Eik",
+  "repository": "git@github.com:warp-ds/fonts.git",
+  "description": "NMP brands fonts and font setup",
   "exports": {
     "./FINNTypeStrippet-Light.woff": "./finn/FINNTypeStrippet-Light.woff",
     "./FINNTypeStrippet-Light.woff2": "./finn/FINNTypeStrippet-Light.woff2",
@@ -25,11 +26,16 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postpublish": "eik publish"
+    "commit": "cz"
   },
+  "files": [
+    "./finn/finn-no.css",
+    "./tori/tori-fi.css",
+    "./blocket/blocket-se.css"
+  ],
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "eik": {
     "type": "package",
     "server": "https://assets.finn.no",
@@ -55,7 +61,20 @@
       "./blocket-se.css": "./blocket/blocket-se.css"
     }
   },
-    "dependencies": {
-    "@eik/cli": "^2.0.22"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "devDependencies": {
+    "@eik/cli": "^2.0.22",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "semantic-release": "^21.0.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
