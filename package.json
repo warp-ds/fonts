@@ -20,9 +20,14 @@
     "./BlocketSans-Bold.woff2": "./blocket/BlocketSans-Bold.woff2",
     "./BlocketSans-Medium.woff": "./blocket/BlocketSans-Medium.woff",
     "./BlocketSans-Medium.woff2": "./blocket/BlocketSans-Medium.woff2",
+    "./ProximaNova-Regular.woff": "./dba/ProximaNova-Regular.woff",
+    "./ProximaNova-Regular.woff2": "./dba/ProximaNova-Regular.woff2",
+    "./ProximaNova-Bold.woff": "./dba/ProximaNova-Bold.woff",
+    "./ProximaNova-Bold.woff2": "./dba/ProximaNova-Bold.woff2",
     "./finn-no.css": "./finn/finn-no.css",
     "./tori-fi.css": "./tori/tori-fi.css",
-    "./blocket-se.css": "./blocket/blocket-se.css"
+    "./blocket-se.css": "./blocket/blocket-se.css",
+    "./dba-dk.css": "./dba/dba-dk.css"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -31,7 +36,8 @@
   "files": [
     "./finn/finn-no.css",
     "./tori/tori-fi.css",
-    "./blocket/blocket-se.css"
+    "./blocket/blocket-se.css",
+    "./dba/dba-dk.css"
   ],
   "keywords": [],
   "author": "",
@@ -56,9 +62,14 @@
       "./BlocketSans-Bold.woff2": "./blocket/BlocketSans-Bold.woff2",
       "./BlocketSans-Medium.woff": "./blocket/BlocketSans-Medium.woff",
       "./BlocketSans-Medium.woff2": "./blocket/BlocketSans-Medium.woff2",
+      "./ProximaNova-Regular.woff": "./dba/ProximaNova-Regular.woff",
+      "./ProximaNova-Regular.woff2": "./dba/ProximaNova-Regular.woff2",
+      "./ProximaNova-Bold.woff": "./dba/ProximaNova-Bold.woff",
+      "./ProximaNova-Bold.woff2": "./dba/ProximaNova-Bold.woff2",
       "./finn-no.css": "./finn/finn-no.css",
       "./tori-fi.css": "./tori/tori-fi.css",
-      "./blocket-se.css": "./blocket/blocket-se.css"
+      "./blocket-se.css": "./blocket/blocket-se.css",
+      "./dba-dk.css": "./dba/dba-dk.css"
     }
   },
   "publishConfig": {
