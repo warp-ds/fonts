@@ -25,10 +25,14 @@
     "./ProximaNova-Regular.woff2": "./dba/ProximaNova-Regular.woff2",
     "./ProximaNova-Bold.woff": "./dba/ProximaNova-Bold.woff",
     "./ProximaNova-Bold.woff2": "./dba/ProximaNova-Bold.woff2",
-    "./finn-no.css": "./finn/finn-no.css",
-    "./tori-fi.css": "./tori/tori-fi.css",
-    "./blocket-se.css": "./blocket/blocket-se.css",
-    "./dba-dk.css": "./dba/dba-dk.css"
+    "./finn-no.css": "./dist/finn-no.css",
+    "./tori-fi.css": "./dist/tori-fi.css",
+    "./blocket-se.css": "./dist/blocket-se.css",
+    "./dba-dk.css": "./dist/dba-dk.css",
+    "./finn-no.min.css": "./dist/finn-no.min.css",
+    "./tori-fi.min.css": "./dist/tori-fi.min.css",
+    "./blocket-se.min.css": "./dist/blocket-se.min.css",
+    "./dba-dk.min.css": "./dist/dba-dk.min.css"
   },
   "scripts": {
     "build": "node index.js",
@@ -36,10 +40,7 @@
     "commit": "cz"
   },
   "files": [
-    "./finn/finn-no.css",
-    "./tori/tori-fi.css",
-    "./blocket/blocket-se.css",
-    "./dba/dba-dk.css"
+    "./dist"
   ],
   "keywords": [],
   "author": "",
@@ -68,10 +69,14 @@
       "./ProximaNova-Regular.woff2": "./dba/ProximaNova-Regular.woff2",
       "./ProximaNova-Bold.woff": "./dba/ProximaNova-Bold.woff",
       "./ProximaNova-Bold.woff2": "./dba/ProximaNova-Bold.woff2",
-      "./finn-no.css": "./finn/finn-no.css",
-      "./tori-fi.css": "./tori/tori-fi.css",
-      "./blocket-se.css": "./blocket/blocket-se.css",
-      "./dba-dk.css": "./dba/dba-dk.css"
+      "./finn-no.css": "./dist/finn-no.css",
+      "./tori-fi.css": "./dist/tori-fi.css",
+      "./blocket-se.css": "./dist/blocket-se.css",
+      "./dba-dk.css": "./dist/dba-dk.css",
+      "./finn-no.min.css": "./dist/finn-no.min.css",
+      "./tori-fi.min.css": "./dist/tori-fi.min.css",
+      "./blocket-se.min.css": "./dist/blocket-se.min.css",
+      "./dba-dk.min.css": "./dist/dba-dk.min.css"
     }
   },
   "publishConfig": {
