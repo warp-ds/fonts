@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'DBA';
+  font-weight: 400;
+  font-style: normal;
+  src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ProximaNova-Regular.woff2') format('woff2'),
+    url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ProximaNova-Regular.woff') format('woff');
+}
+  
+@font-face {
+  font-family: 'DBA';
+  font-weight: 700;
+  src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ProximaNova-Bold.woff2') format('woff2'),
+    url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ProximaNova-Bold.woff') format('woff');
+}
