@@ -1,3 +1,10 @@
+# [1.1.0-next.1](https://github.com/warp-ds/fonts/compare/v1.0.0...v1.1.0-next.1) (2023-06-30)
+
+
+### Features
+
+* **dba:** add DBA fonts and initial font definitions ([#5](https://github.com/warp-ds/fonts/issues/5)) ([f268ce6](https://github.com/warp-ds/fonts/commit/f268ce61b50732565ba562e401bcdbe22307c8e4))
+
 # 1.0.0 (2023-06-30)
 
 
