@@ -2,6 +2,7 @@
     font-family: 'ToriSans';
     src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ToriSans-Regular.woff2') format('woff2'),
         url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/ToriSans-Regular.woff') format('woff');
+    font-weight: 400;
 }
 
 @font-face {
