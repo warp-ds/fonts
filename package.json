@@ -1,5 +1,6 @@
 {
   "name": "@warp-ds/fonts",
+  "type": "module",
   "version": "1.0.0",
   "repository": "git@github.com:warp-ds/fonts.git",
   "description": "NMP brands fonts and font setup",
@@ -30,6 +31,7 @@
     "./dba-dk.css": "./dba/dba-dk.css"
   },
   "scripts": {
+    "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "cz"
   },
