@@ -77,6 +77,8 @@
     "access": "public"
   },
   "devDependencies": {
+    "drnm": "^0.9.0",
+    "lightningcss": "^1.21.1",
     "@eik/cli": "^2.0.22",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
