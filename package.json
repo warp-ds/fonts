@@ -1,6 +1,7 @@
 {
   "name": "@warp-ds/fonts",
-  "version": "1.0.0",
+  "type": "module",
+  "version": "1.1.0-next.2",
   "repository": "git@github.com:warp-ds/fonts.git",
   "description": "NMP brands fonts and font setup",
   "exports": {
@@ -20,18 +21,26 @@
     "./BlocketSans-Bold.woff2": "./blocket/BlocketSans-Bold.woff2",
     "./BlocketSans-Medium.woff": "./blocket/BlocketSans-Medium.woff",
     "./BlocketSans-Medium.woff2": "./blocket/BlocketSans-Medium.woff2",
-    "./finn-no.css": "./finn/finn-no.css",
-    "./tori-fi.css": "./tori/tori-fi.css",
-    "./blocket-se.css": "./blocket/blocket-se.css"
+    "./ProximaNova-Regular.woff": "./dba/ProximaNova-Regular.woff",
+    "./ProximaNova-Regular.woff2": "./dba/ProximaNova-Regular.woff2",
+    "./ProximaNova-Bold.woff": "./dba/ProximaNova-Bold.woff",
+    "./ProximaNova-Bold.woff2": "./dba/ProximaNova-Bold.woff2",
+    "./finn-no.css": "./dist/finn-no.css",
+    "./tori-fi.css": "./dist/tori-fi.css",
+    "./blocket-se.css": "./dist/blocket-se.css",
+    "./dba-dk.css": "./dist/dba-dk.css",
+    "./finn-no.min.css": "./dist/finn-no.min.css",
+    "./tori-fi.min.css": "./dist/tori-fi.min.css",
+    "./blocket-se.min.css": "./dist/blocket-se.min.css",
+    "./dba-dk.min.css": "./dist/dba-dk.min.css"
   },
   "scripts": {
+    "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "cz"
   },
   "files": [
-    "./finn/finn-no.css",
-    "./tori/tori-fi.css",
-    "./blocket/blocket-se.css"
+    "./dist"
   ],
   "keywords": [],
   "author": "",
@@ -56,9 +65,18 @@
       "./BlocketSans-Bold.woff2": "./blocket/BlocketSans-Bold.woff2",
       "./BlocketSans-Medium.woff": "./blocket/BlocketSans-Medium.woff",
       "./BlocketSans-Medium.woff2": "./blocket/BlocketSans-Medium.woff2",
-      "./finn-no.css": "./finn/finn-no.css",
-      "./tori-fi.css": "./tori/tori-fi.css",
-      "./blocket-se.css": "./blocket/blocket-se.css"
+      "./ProximaNova-Regular.woff": "./dba/ProximaNova-Regular.woff",
+      "./ProximaNova-Regular.woff2": "./dba/ProximaNova-Regular.woff2",
+      "./ProximaNova-Bold.woff": "./dba/ProximaNova-Bold.woff",
+      "./ProximaNova-Bold.woff2": "./dba/ProximaNova-Bold.woff2",
+      "./finn-no.css": "./dist/finn-no.css",
+      "./tori-fi.css": "./dist/tori-fi.css",
+      "./blocket-se.css": "./dist/blocket-se.css",
+      "./dba-dk.css": "./dist/dba-dk.css",
+      "./finn-no.min.css": "./dist/finn-no.min.css",
+      "./tori-fi.min.css": "./dist/tori-fi.min.css",
+      "./blocket-se.min.css": "./dist/blocket-se.min.css",
+      "./dba-dk.min.css": "./dist/dba-dk.min.css"
     }
   },
   "publishConfig": {
@@ -66,6 +84,8 @@
     "access": "public"
   },
   "devDependencies": {
+    "drnm": "^0.9.0",
+    "lightningcss": "^1.21.1",
     "@eik/cli": "^2.0.22",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
