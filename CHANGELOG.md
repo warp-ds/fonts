@@ -1,3 +1,10 @@
+## [1.1.1-next.1](https://github.com/warp-ds/fonts/compare/v1.1.0...v1.1.1-next.1) (2023-08-08)
+
+
+### Bug Fixes
+
+* **index.js:** publish only minified versions of css ([#8](https://github.com/warp-ds/fonts/issues/8)) ([ce9d53d](https://github.com/warp-ds/fonts/commit/ce9d53dd589dde395a16aaddf4e14f7317c78534))
+
 # [1.1.0](https://github.com/warp-ds/fonts/compare/v1.0.0...v1.1.0) (2023-07-03)
 
 
