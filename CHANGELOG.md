@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/warp-ds/fonts/compare/v1.1.1...v1.1.2) (2025-01-10)
+
+
+### Bug Fixes
+
+* update dba fonts ([#11](https://github.com/warp-ds/fonts/issues/11)) ([a990917](https://github.com/warp-ds/fonts/commit/a990917164d0a2c061e692a3a4ec41d4aa56544d))
+
 ## [1.1.2-next.1](https://github.com/warp-ds/fonts/compare/v1.1.1...v1.1.2-next.1) (2025-01-10)
 
 
