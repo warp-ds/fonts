@@ -1,3 +1,10 @@
+# [1.2.0-next.1](https://github.com/warp-ds/fonts/compare/v1.1.2...v1.2.0-next.1) (2025-03-04)
+
+
+### Features
+
+* add neutral-com font styles and update index processing ([#13](https://github.com/warp-ds/fonts/issues/13)) ([34adf76](https://github.com/warp-ds/fonts/commit/34adf764fc247c858dedb6f64445ae1548ad42a8))
+
 ## [1.1.2](https://github.com/warp-ds/fonts/compare/v1.1.1...v1.1.2) (2025-01-10)
 
 
