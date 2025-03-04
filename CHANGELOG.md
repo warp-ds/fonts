@@ -1,3 +1,10 @@
+# [1.2.0-next.3](https://github.com/warp-ds/fonts/compare/v1.2.0-next.2...v1.2.0-next.3) (2025-03-04)
+
+
+### Features
+
+* update package.json to specify individual font and CSS file paths ([e1ec43f](https://github.com/warp-ds/fonts/commit/e1ec43f93a51837372889509e293c9636935df77))
+
 # [1.2.0-next.2](https://github.com/warp-ds/fonts/compare/v1.2.0-next.1...v1.2.0-next.2) (2025-03-04)
 
 
