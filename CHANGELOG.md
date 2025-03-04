@@ -1,3 +1,10 @@
+# [1.2.0-next.2](https://github.com/warp-ds/fonts/compare/v1.2.0-next.1...v1.2.0-next.2) (2025-03-04)
+
+
+### Features
+
+* simplify file structure in package.json by pointing to the dist directory ([f173ae2](https://github.com/warp-ds/fonts/commit/f173ae2f43a8d83f277ad3d3fb8c42b2a013de7c))
+
 # [1.2.0-next.1](https://github.com/warp-ds/fonts/compare/v1.1.2...v1.2.0-next.1) (2025-03-04)
 
 
