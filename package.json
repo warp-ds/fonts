@@ -1,38 +1,15 @@
 {
   "name": "@warp-ds/fonts",
   "type": "module",
-  "version": "1.1.2",
+  "version": "1.2.0-next.3",
   "repository": "git@github.com:warp-ds/fonts.git",
   "description": "NMP brands fonts and font setup",
   "exports": {
-    "./FINNTypeStrippet-Light.woff": "./finn/FINNTypeStrippet-Light.woff",
-    "./FINNTypeStrippet-Light.woff2": "./finn/FINNTypeStrippet-Light.woff2",
-    "./FINNTypeStrippet-Medium.woff": "./finn/FINNTypeStrippet-Medium.woff",
-    "./FINNTypeStrippet-Medium.woff2": "./finn/FINNTypeStrippet-Medium.woff2",
-    "./ToriSans-Regular.woff": "./tori/ToriSans-Regular.woff",
-    "./ToriSans-Regular.woff2": "./tori/ToriSans-Regular.woff2",
-    "./ToriSans-Italic.woff": "./tori/ToriSans-Italic.woff",
-    "./ToriSans-Italic.woff2": "./tori/ToriSans-Italic.woff2",
-    "./ToriSans-Bold.woff": "./tori/ToriSans-Bold.woff",
-    "./ToriSans-Bold.woff2": "./tori/ToriSans-Bold.woff2",
-    "./BlocketSans-Regular.woff": "./blocket/BlocketSans-Regular.woff",
-    "./BlocketSans-Regular.woff2": "./blocket/BlocketSans-Regular.woff2",
-    "./BlocketSans-Bold.woff": "./blocket/BlocketSans-Bold.woff",
-    "./BlocketSans-Bold.woff2": "./blocket/BlocketSans-Bold.woff2",
-    "./BlocketSans-Medium.woff": "./blocket/BlocketSans-Medium.woff",
-    "./BlocketSans-Medium.woff2": "./blocket/BlocketSans-Medium.woff2",
-    "./ProximaNova-Regular.woff": "./dba/ProximaNova-Regular.woff",
-    "./ProximaNova-Regular.woff2": "./dba/ProximaNova-Regular.woff2",
-    "./ProximaNova-Bold.woff": "./dba/ProximaNova-Bold.woff",
-    "./ProximaNova-Bold.woff2": "./dba/ProximaNova-Bold.woff2",
     "./finn-no.css": "./dist/finn-no.css",
     "./tori-fi.css": "./dist/tori-fi.css",
     "./blocket-se.css": "./dist/blocket-se.css",
     "./dba-dk.css": "./dist/dba-dk.css",
-    "./finn-no.min.css": "./dist/finn-no.min.css",
-    "./tori-fi.min.css": "./dist/tori-fi.min.css",
-    "./blocket-se.min.css": "./dist/blocket-se.min.css",
-    "./dba-dk.min.css": "./dist/dba-dk.min.css"
+    "./neutral-com.css": "./dist/neutral-com.css"
   },
   "scripts": {
     "build": "node index.js",
@@ -69,6 +46,10 @@
       "./ProximaNova-Regular.woff2": "./dba/ProximaNova-Regular.woff2",
       "./ProximaNova-Bold.woff": "./dba/ProximaNova-Bold.woff",
       "./ProximaNova-Bold.woff2": "./dba/ProximaNova-Bold.woff2",
+      "./Inter-Bold.woff": "./neutral/Inter-Bold.woff",
+      "./Inter-Bold.woff2": "./neutral/Inter-Bold.woff2",
+      "./Inter-Regular.woff": "./neutral/Inter-Regular.woff",
+      "./Inter-Regular.woff2": "./neutral/Inter-Regular.woff2",
       "./finn-no.css": "./dist/finn-no.css",
       "./tori-fi.css": "./dist/tori-fi.css",
       "./blocket-se.css": "./dist/blocket-se.css",
@@ -76,7 +57,9 @@
       "./finn-no.min.css": "./dist/finn-no.min.css",
       "./tori-fi.min.css": "./dist/tori-fi.min.css",
       "./blocket-se.min.css": "./dist/blocket-se.min.css",
-      "./dba-dk.min.css": "./dist/dba-dk.min.css"
+      "./dba-dk.min.css": "./dist/dba-dk.min.css",
+      "./neutral-com.css": "./dist/neutral-com.css",
+      "./neutral-com.min.css": "./dist/neutral-com.min.css"
     }
   },
   "publishConfig": {
