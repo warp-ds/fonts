@@ -21,3 +21,4 @@ process('dba-dk');
 process('finn-no');
 process('blocket-se');
 process('neutral-com');
+process('vend-com');
