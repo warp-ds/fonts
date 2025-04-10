@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'VendSansText';
+    src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/VendSansText-Regular.woff2') format('woff2'),
+        url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/VendSansText-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VendSansText';
+    src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/VendSansText-Bold.woff2') format('woff2'),
+        url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/VendSansText-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
