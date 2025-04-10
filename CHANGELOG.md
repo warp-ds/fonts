@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/warp-ds/fonts/compare/v1.2.0...v1.3.0) (2025-04-10)
+
+
+### Features
+
+* add VendSansText font and update package.json for new CSS and font file paths ([44b78b4](https://github.com/warp-ds/fonts/commit/44b78b41daa7003dbc31fa412b30a7faa873beb1))
+
 # [1.3.0-next.1](https://github.com/warp-ds/fonts/compare/v1.2.0...v1.3.0-next.1) (2025-04-10)
 
 
