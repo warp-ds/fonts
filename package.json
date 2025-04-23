@@ -1,7 +1,7 @@
 {
   "name": "@warp-ds/fonts",
   "type": "module",
-  "version": "1.3.0",
+  "version": "1.4.0-next.1",
   "repository": "git@github.com:warp-ds/fonts.git",
   "description": "NMP brands fonts and font setup",
   "exports": {
@@ -27,10 +27,10 @@
     "type": "package",
     "server": "https://assets.finn.no",
     "files": {
-      "./FINNTypeStrippet-Light.woff": "./finn/FINNTypeStrippet-Light.woff",
-      "./FINNTypeStrippet-Light.woff2": "./finn/FINNTypeStrippet-Light.woff2",
-      "./FINNTypeStrippet-Medium.woff": "./finn/FINNTypeStrippet-Medium.woff",
-      "./FINNTypeStrippet-Medium.woff2": "./finn/FINNTypeStrippet-Medium.woff2",
+      "./FINNTypeAlleTegn-Light.woff": "./finn/FINNTypeAlleTegn-Light.woff",
+      "./FINNTypeAlleTegn-Light.woff2": "./finn/FINNTypeAlleTegn-Light.woff2",
+      "./FINNTypeAlleTegn-Medium.woff": "./finn/FINNTypeAlleTegn-Medium.woff",
+      "./FINNTypeAlleTegn-Medium.woff2": "./finn/FINNTypeAlleTegn-Medium.woff2",
       "./ToriSans-Regular.woff": "./tori/ToriSans-Regular.woff",
       "./ToriSans-Regular.woff2": "./tori/ToriSans-Regular.woff2",
       "./ToriSans-Italic.woff": "./tori/ToriSans-Italic.woff",

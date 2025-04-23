@@ -1,3 +1,10 @@
+# [1.4.0-next.1](https://github.com/warp-ds/fonts/compare/v1.3.0...v1.4.0-next.1) (2025-04-23)
+
+
+### Features
+
+* add FINNTypeAlleTegn font files and update CSS and package.json references ([#16](https://github.com/warp-ds/fonts/issues/16)) ([a88340f](https://github.com/warp-ds/fonts/commit/a88340f9741dccb01e25cb41c3ec86b9a8c381b7))
+
 # [1.3.0](https://github.com/warp-ds/fonts/compare/v1.2.0...v1.3.0) (2025-04-10)
 
 
