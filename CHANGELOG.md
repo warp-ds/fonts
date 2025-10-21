@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/warp-ds/fonts/compare/v1.4.0...v1.5.0) (2025-10-21)
+
+
+### Features
+
+* Rename Bold to medium and Medium to bold for Blocket Release ([143063d](https://github.com/warp-ds/fonts/commit/143063d4cd812cb6e759f8b3ecdc07557366cf5a))
+
 # [1.5.0-next.1](https://github.com/warp-ds/fonts/compare/v1.4.0...v1.5.0-next.1) (2025-10-21)
 
 
