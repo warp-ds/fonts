@@ -5,6 +5,8 @@
     font-weight: 400;
 }
 
+/* Bold is actually using the medium font now. Renamed for Blocket Release */
+
 @font-face {
     font-family: 'BlocketSans';
     src: url('https://assets.finn.no/pkg/@warp-ds/fonts/v1/BlocketSans-Bold.woff2') format('woff2'),
