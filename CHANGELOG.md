@@ -1,3 +1,11 @@
+# [1.6.0](https://github.com/warp-ds/fonts/compare/v1.5.0...v1.6.0) (2026-02-24)
+
+
+### Features
+
+* Update font-family in dba-dk.css to DBA to keep backward compatibility ([6bb0233](https://github.com/warp-ds/fonts/commit/6bb023318f45b3eb99b6dffc360e2d909c80962f))
+* Update font-family in dba-dk.css to VendSansText. ([989fa83](https://github.com/warp-ds/fonts/commit/989fa838cd83c51d3ca870bb00b505b1eb243aab))
+
 # [1.6.0-next.2](https://github.com/warp-ds/fonts/compare/v1.6.0-next.1...v1.6.0-next.2) (2026-02-24)
 
 
