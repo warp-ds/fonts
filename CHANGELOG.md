@@ -1,3 +1,10 @@
+# [1.6.0-next.1](https://github.com/warp-ds/fonts/compare/v1.5.0...v1.6.0-next.1) (2026-02-24)
+
+
+### Features
+
+* Update font-family in dba-dk.css to VendSansText. ([989fa83](https://github.com/warp-ds/fonts/commit/989fa838cd83c51d3ca870bb00b505b1eb243aab))
+
 # [1.5.0](https://github.com/warp-ds/fonts/compare/v1.4.0...v1.5.0) (2025-10-21)
 
 
