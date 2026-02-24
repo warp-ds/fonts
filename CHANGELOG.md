@@ -1,3 +1,10 @@
+# [1.6.0-next.2](https://github.com/warp-ds/fonts/compare/v1.6.0-next.1...v1.6.0-next.2) (2026-02-24)
+
+
+### Features
+
+* Update font-family in dba-dk.css to DBA to keep backward compatibility ([6bb0233](https://github.com/warp-ds/fonts/commit/6bb023318f45b3eb99b6dffc360e2d909c80962f))
+
 # [1.6.0-next.1](https://github.com/warp-ds/fonts/compare/v1.5.0...v1.6.0-next.1) (2026-02-24)
 
 
