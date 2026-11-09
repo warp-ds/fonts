@@ -1,7 +1,9 @@
 # Warp-ds fonts
 
+ℹ️ Development of Warp has moved in-house. This repository is read-only.
+
 Welcome to [@warp-ds/fonts](https://github.com/warp-ds/fonts),
-a collection of fonts used by all brands within the Nordic Marketplaces.
+a collection of fonts used by all brands within Vend.
 This repository is maintained by the [Warp Core Team](https://github.com/orgs/warp-ds/teams/warp-core-team).
 
 The font setup is based on [Blocket's](https://github.schibsted.io/blocket/blocket-ui/blob/master/styleguide/index.css#L140-L163), [Tori's](https://github.schibsted.io/Tori/tori.fi/blob/0ce0d7392a3ccd9502206e206871e0769630f66c/www/css/site/blocket.css#L26-L40),
